@@ -13,7 +13,7 @@ QUESTION 3
 For Question 3, I wrote a function that calculates the expression `a * b + 200`. The function takes two integer parameters, performs the calculation, and prints the result three times using a loop. I used `namespace std` to avoid writing std every time its needed, and use `void SimpleMath` and a for loop to print an answer after taking in integers a and b.  
 
 QUESTION 4
-Question 4 is similar to Question 3, but the function calculates `a * b + 20.51` using `double` variables instead of integers. This ensures that decimal values are handled correctly. The function is again called and the result is displayed multiple times, where I add a for loop from 0-3 to print the answer 3 times.
+Question 4 is similar to Question 3, but the function calculates `a * b + 20.51` using `double` variables instead of integers. This ensures that decimal values are handled correctly. The function is again called and the result is displayed multiple times, where I add a for loop from 0-2 to print the answer 3 times.
 
 QUESTION 5
 In Question 5, I developed a program that reads a set of integers from the user and calculates their sum. The program first asks how many numbers the user wants to enter, using `cin >>`, then uses a loop to read each value and add it to a running total. After all inputs are collected, the final sum is displayed. I used `cin`, loop control, and an accumulator variable.
