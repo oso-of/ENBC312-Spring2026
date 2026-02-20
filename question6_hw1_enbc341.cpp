@@ -20,7 +20,7 @@ void CountingUp(int a, int b){
     
 
     if(a >= b){
-        cout << "Error: b must be greater than a";
+        cout << "Error: b must be greater than a" << '\n';
     }
 
     else{
