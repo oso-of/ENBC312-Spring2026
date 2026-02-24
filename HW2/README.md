@@ -11,9 +11,9 @@ using cout and namespace std. For part b, I used a while loop by starting at 0 w
 and namespace std were used. For part c I used a do while loop. Esentially, I used  the same format as part b but my while loop was put after, running after the do partt runs once.
 
 
-##Question 3
+## Question 3
 For this program I developed a function that determines the most frequently occurring character in a string using an unordered_map. I implemented a hash table map where the counts of each
- character were stored as the value, and the character itself was the key. I then looped through the string and incremented the count every time a character appeared. While doing this, I kept
- track of the highest count and updated the result whenever a character’s frequency became greater than the current maximum. The function then returns the character with the highest frequency,
- which is passed back to the main() function and printed.
+character were stored as the value, and the character itself was the key. I then looped through the string and incremented the count every time a character appeared. While doing this, I kept
+track of the highest count and updated the result whenever a character’s frequency became greater than the current maximum. The function then returns the character with the highest frequency,
+which is passed back to the main() function and printed.
 
