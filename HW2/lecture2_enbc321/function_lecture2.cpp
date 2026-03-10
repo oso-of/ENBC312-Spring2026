@@ -1,3 +1,0 @@
-
-
-int raiseToPower(int base)
